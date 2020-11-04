@@ -11,3 +11,5 @@ Semantic elements have been used
 Structure is made with header footer etc
 
 The site is hosted on github page
+
+https://jewel-7.github.io/Resume/
