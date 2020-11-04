@@ -1,0 +1,22 @@
+.a
+{
+    width: 1400px;
+    font-size: x-large;
+    text-align: center;
+    color: whitesmoke;
+    margin: auto;
+    padding: 10px 0px 10px 0px;
+    background-color: black;
+   background-size: 2000px;
+}
+
+
+
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #45a1ff;
+    color: #fff;
+}
